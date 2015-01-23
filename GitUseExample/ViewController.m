@@ -27,6 +27,7 @@
 - (IBAction)clickTheButton:(id)sender
 {
     NSLog(@"This is a Git tutorial");
+    NSLog(@"Added project on remote repository.");
 }
 
 @end
